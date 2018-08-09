@@ -62,3 +62,10 @@ Examples:
 multiple-choice format. Students turn to a partner seated nearby and they work together to reach a
 common answer
 for a given amount of time, taking turns (A talks, B listens, then B talks, A listens)
+
+Content is always
+- interactive
+- question/cliffhanger driven
+- hook-forward 
+- topical
+- diverse appeal
