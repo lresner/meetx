@@ -69,3 +69,13 @@ Content is always
 - hook-forward 
 - topical
 - diverse appeal
+- design to complete in pairs or small groups
+
+eg.
+https://github.com/learn-co-curriculum/hs-oo-cash-register/blob/master/README.md
+https://github.com/learn-co-curriculum/hs-oo-snapchat/blob/master/README.md
+
+5. Motivating
+topical, challenging content
+looking for and acknolwedging progress (publicly and privately)
+
