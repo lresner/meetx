@@ -28,6 +28,8 @@ MEETX courses are:
 - Introduce relevant and challenging material
 - Fun
 
+Both in terms of content and delivery style. 
+
 1. High-Energy
 Teachers convey genuine enthusiasm and passion for subjects
 Consistently create space to talk about why a certain subject is not just important but awesome (in the truest sense of the word...awe-inspring)
