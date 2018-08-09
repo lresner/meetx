@@ -19,11 +19,11 @@ M
 
 ## Delivery Guidlines
 MEETX courses are:
-1. High-energy
-2. Interactive
-3. Collaborative
-4. Introduce relevant and challenging material
-5. Fun
+- High-energy
+- Interactive
+- Collaborative
+- Introduce relevant and challenging material
+- Fun
 
 1. High-Energy
 Teachers convey genuine enthusiasm and passion for subjects
