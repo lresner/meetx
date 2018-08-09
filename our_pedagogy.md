@@ -70,9 +70,9 @@ for a given amount of time, taking turns (A talks, B listens, then B talks, A li
 
 Content is always
 - interactive
-- question/cliffhanger driven
-- hook-forward 
-- topical
+- question/cliffhanger driven (eg fake tweet lab)
+- hook-forward (ie. make students ask 'how the heck did you do that?  how the heck do I do that too!?'
+- topical (relative to students and interests and current events.  eg. using taylor swift for fake tweet.n 
 - diverse appeal
 - design to complete in pairs or small groups
 
