@@ -35,6 +35,14 @@ Encourage and reinforce participation
 -Every 5 minute block should bookend with an 'interactive practice' or other *CFU*
 -Use CFUs REGULARLY
 
+
+3.  ALWAYS use names + Personal details 
+  - To cold call
+  - To reinforce positive behavior in front of the class (eg. 'Did everyone hear Laura's insight?  Laura can you repeat?  or Steve can you summarize what Laura said and possibly add?'
+  - To gently state need from a student in front of class 'eg. Tommy we need you to wrap up and give your attention to Lisa.'
+  - In written curriculum examples (eg. 'Jerry.dance = "true"')
+  - In impromptu examples/metaphors (eg. 'Ok let's try another example of real-world functions.  We all know Jerry is an amazing dancer.  Jerry — can you break down the steps of the 'duggy?')
+
 *CFUs*
 Checks for understanding are a key tactic for 
 1. Introducing interacitivty into a lesson
@@ -50,12 +58,7 @@ Examples:
 7. Peer Instruction
 8. Fist-to-5
 9. Timed Pair Share
+10. The ConcepTest consists of a challenging conceptual question or problem posed in
+multiple-choice format. Students turn to a partner seated nearby and they work together to reach a
+common answer
 for a given amount of time, taking turns (A talks, B listens, then B talks, A listens)
-
-3.  ALWAYS use names + Personal details 
-  - To cold call
-  - To reinforce positive behavior in front of the class (eg. 'Did everyone hear Laura's insight?  Laura can you repeat?  or Steve can you summarize what Laura said and possibly add?'
-  - To gently state need from a student in front of class 'eg. Tommy we need you to wrap up and give your attention to Lisa.'
-  - In written curriculum examples (eg. 'Jerry.dance = "true"')
-  - In impromptu examples/metaphors (eg. 'Ok let's try another example of real-world functions.  We all know Jerry is an amazing dancer.  Jerry — 
-
