@@ -8,6 +8,9 @@ The potentially high reward of MEETx model comes at great dificulty of execution
 including staffing, logistics, timing, and engagement.  The 
 
 ## A MEET Classroom
+
+A MEET Classroom is...
+
 What are the ideal outcomes for a MEETx Y1 graduate?
 1. They will attend every class
 2. Enthusiastic
