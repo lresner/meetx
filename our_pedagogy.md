@@ -36,10 +36,10 @@ This document will go into more detail on each of these levers.
 
 ## IV. Delivery Guidlines
 MEETX courses are:
-- High-energy
-- Interactive
-- Collaborative
-- Fun
+  - High-energy
+  - Interactive
+  - Collaborative
+  - Fun
 
 Both in terms of content and delivery style. 
 
@@ -94,12 +94,12 @@ Hooks and hangers — Content structured sequentially with cliffhangers…
 Hooks — Clear motivations for why somethign is important, useful, or fun to learn upfront
 
 Content is always
-- interactive
-- question/cliffhanger driven (eg fake tweet lab)
-- hook-forward (ie. make students ask 'how the heck did you do that?  how the heck do I do that too!?'
-- topical (relative to students and interests and current events.  eg. using taylor swift for fake tweet.n 
-- diverse appeal
-- design to complete in pairs or small groups
+  - interactive
+  - question/cliffhanger driven (eg fake tweet lab)
+  - hook-forward (ie. make students ask 'how the heck did you do that?  how the heck do I do that too!?'
+  - topical (relative to students and interests and current events.  eg. using taylor swift for fake tweet.n 
+  - diverse appeal
+  - design to complete in pairs or small groups
 
 eg.
 https://github.com/learn-co-curriculum/hs-oo-cash-register/blob/master/README.md
