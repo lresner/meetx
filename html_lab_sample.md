@@ -1,3 +1,13 @@
+Every week curriculum include:
+
+For class:
+Lesson Plan
+-Deck
+-Teacher Guide
+-At least one lab
+-At least one stretch lab
+
+For the week:
 Study Guide - This is a review of the material we went over that day. If a student misses a class, they are expected to do the work in the Study Guide for the class they missed
 
 Resources - This section contains a best-of list of external resources for students on a particular topic.
