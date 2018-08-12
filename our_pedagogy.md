@@ -1,4 +1,4 @@
-### MEETx Pedagogy Guidlines
+### MEETx Playbook
 
 ## Contents
 I. Overview </br>
