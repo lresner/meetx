@@ -55,7 +55,7 @@ MEETX courses are:
 
 Both in terms of content and delivery style. 
 
-#### High-Energy
+#### 1. High-Energy
    - Teachers convey genuine enthusiasm and passion for subjects
    - Consistently create space to talk about why a certain subject is not just important but awesome (in the truest sense 		of the word...awe-inspring)
    - Encourage and reinforce participation
