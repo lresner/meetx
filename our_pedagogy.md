@@ -64,34 +64,36 @@ Extra Extra — Passion + Enthusiasm + Energy (never enough)
   - In written curriculum examples (eg. 'Jerry.dance = "true"')
   - In impromptu examples/metaphors (eg. 'Ok let's try another example of real-world functions.  We all know Jerry is an amazing dancer.  Jerry — can you break down the steps of the 'duggy?')
   - To cold call
-    - use regular cold-calling to see if people are digesting important concepts and to encourage attentiveness.  "So Jenny, if I wanted to rename a file from the command line, what would I have to type?"
+    - use regular cold-calling to see if people are digesting important concepts and to encourage attentiveness.  "So Jenny,         if I wanted to rename a file from the command line, what would I have to type?"
     - Don't use as a 'gotcha'
     - Identify disengaged (probably lost) students, and cold-call and coach them through the problem.
 
 *CFUs*
 Checks for understanding are a key tactic for 
-1. Introducing interacitivty into a lesson
-2. Giving teacher as much 'early signaling' as possible to course correct — either academically or engagement-wise
+  1. Introducing interacitivty into a lesson
+  2. Giving teacher as much 'early signaling' as possible to course correct — either academically or engagement-wise
 
 Examples:
-1. Thumbs
-2. Arm-barometers
-3. Think-pair-share
-4. Turn-to-partner
-5. Cold-calling
-6. Whiteboard display (count of 3)
-7. Peer Instruction
-8. Fist-to-5
-9. Timed Pair Share
-10. The ConcepTest consists of a challenging conceptual question or problem posed in
-multiple-choice format. Students turn to a partner seated nearby and they work together to reach a
-common answer
-for a given amount of time, taking turns (A talks, B listens, then B talks, A listens)
+  1. Thumbs
+  2. Arm-barometers
+  3. Think-pair-share
+  4. Turn-to-partner
+  5. Cold-calling
+  6. Whiteboard display (count of 3)
+  7. Peer Instruction
+  8. Fist-to-5
+  9. Timed Pair Share
+  10. The ConcepTest consists of a challenging conceptual question or problem posed in
+  multiple-choice format. Students turn to a partner seated nearby and they work together to reach a
+  common answer
+  for a given amount of time, taking turns (A talks, B listens, then B talks, A listens)
 
-**Avoid** “does everyone understand?  cool?  does that make sense?”
+**Avoid** “Does everyone understand?  Cool?  Does that make sense?”
 
 
-4. Motivating
+4. Collaborative.  Most exercises are sturcutred to be completed in pairs or in groups.  "Collaborative learning" is emphasized as a value.  Guidelines are issued are to make 'everyone a student, everyone a learner.'
+
+5. Motivating
 topical, challenging content
 looking for and acknolwedging progress (publicly and privately)
 
