@@ -102,7 +102,7 @@ Both in terms of content and delivery style.
 **Avoid** “Does everyone understand?  Cool?  Does that make sense?”
 
 
-#### 4. Collaborative.  Most exercises are sturcutred to be completed in pairs or in groups.  "Collaborative learning" is emphasized as a value.  Guidelines are issued are to make 'everyone a student, everyone a learner.'
+#### 4. Collaborative.  Most exercises are sturcutred to be completed in pairs or in groups.  "Collaborative learning" is emphasized as a value.  Guidelines are issued are to make everyone 'a student, everyone a learner.'
 
 #### 5. Motivating
 topical, challenging content
