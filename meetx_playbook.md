@@ -55,11 +55,10 @@ MEETX courses are:
 Both in terms of content and delivery style. 
 
 #### 1. High-Energy
-Teachers convey genuine enthusiasm and passion for subjects
-Consistently create space to talk about why a certain subject is not just important but awesome (in the truest sense of the word...awe-inspring)
-Encourage and reinforce participation
-Extra Extra — Passion + Enthusiasm + Energy (never enough)
-
+	- Teachers convey genuine enthusiasm and passion for subjects
+	- Consistently create space to talk about why a certain subject is not just important but awesome (in the truest sense 		of the word...awe-inspring)
+	- Encourage and reinforce participation
+	- Extra Extra — Passion + Enthusiasm + Energy (never enough)
 
 #### 2. Interactive
 	- 5-min rule: Teachers never speak for more than 5 minutes at a time.  "Popcorning"
