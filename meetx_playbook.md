@@ -23,7 +23,7 @@ The goals of the MEETx program are threefold:
 2. They will do so with enthusiasm
 3. They are prepared for success in Summer2.
 
-We beleie these goals will be achived by sriving for the following classroom outcomes:
+We believe these goals will be achieved by striving for the following classroom outcomes:
 
   1. Students will have had a blast
   2. Students will feel inspired and motivated after every lesson
