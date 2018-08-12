@@ -84,6 +84,8 @@ multiple-choice format. Students turn to a partner seated nearby and they work t
 common answer
 for a given amount of time, taking turns (A talks, B listens, then B talks, A listens)
 
+**Avoid** “does everyone understand?  cool?  does that make sense?”
+
 
 4. Motivating
 topical, challenging content
