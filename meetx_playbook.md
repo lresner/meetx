@@ -45,7 +45,8 @@ Year-long (ie after-school) programs face enormous challenges, including staffin
 This document will go into more detail on each of these levers.
 
 
-## IV. Delivery Guidlines
+## IV. Delivery Guidelines
+
 MEETX courses are:
   - High-energy
   - Interactive
@@ -54,20 +55,20 @@ MEETX courses are:
 
 Both in terms of content and delivery style. 
 
-#### 1. High-Energy
-	- Teachers convey genuine enthusiasm and passion for subjects
-	- Consistently create space to talk about why a certain subject is not just important but awesome (in the truest sense 		of the word...awe-inspring)
-	- Encourage and reinforce participation
-	- Extra Extra — Passion + Enthusiasm + Energy (never enough)
+#### High-Energy
+   - Teachers convey genuine enthusiasm and passion for subjects
+   - Consistently create space to talk about why a certain subject is not just important but awesome (in the truest sense 		of the word...awe-inspring)
+   - Encourage and reinforce participation
+   - Extra Extra — Passion + Enthusiasm + Energy (never enough)
 
 #### 2. Interactive
-	- 5-min rule: Teachers never speak for more than 5 minutes at a time.  "Popcorning"
-	- Every 5 minute block should bookend with an 'interactive practice' or other *CFU*
-	- Use CFUs REGULARLY
+   - 5-min rule: Teachers never speak for more than 5 minutes at a time.  "Popcorning"
+   - Every 5 minute block should bookend with an 'interactive practice' or other *CFU*
+   - Use CFUs REGULARLY
 
 
 #### 3. ALWAYS use names + Personal details 
-    - To reinforce positive behavior in front of the class (eg. 'Did everyone hear Laura's insight?  Laura can you repeat?  or Steve can you summarize what Laura said and possibly add?'
+   - To reinforce positive behavior in front of the class (eg. 'Did everyone hear Laura's insight?  Laura can you repeat?  or Steve can you summarize what Laura said and possibly add?'
     - To gently state need from a student in front of class 'eg. Tommy we need you to wrap up and give your attention to Lisa.'
     - In written curriculum examples (eg. 'Jerry.dance = "true"')
     - In impromptu examples/metaphors (eg. 'Ok let's try another example of real-world functions.  We all know Jerry is an amazing dancer.  Jerry — can you break down the steps of the 'duggy?')
