@@ -83,16 +83,17 @@ Extra Extra — Passion + Enthusiasm + Energy (never enough)
         2. Giving teacher as much 'early signaling' as possible to course correct — either academically or engagement-wise
 
       Examples:
-        1. Thumbs
-        2. Arm-barometers
-        3. Think-pair-share
-        4. Turn-to-partner
-        5. Cold-calling
-        6. Whiteboard display (count of 3)
-        7. Peer Instruction
-        8. Fist-to-5
-        9. Timed Pair Share
-        10. The ConcepTest consists of a challenging conceptual question or problem posed in
+        1.  Thumbs
+        2.  Arm-barometers
+        3.  Think-pair-share
+        4.  Turn-to-partner
+        5.  Cold-calling
+        6.  Whiteboard display (count of 3)
+        7.  Peer Instruction
+        8.  Fist-to-5
+        9.  Timed Pair Share
+        10. Wisdom of Another – After any individual brainstorm or creative activity, partner students up to share their                   results. Then, call for volunteers of students who found their partner’s work to be interesting or exemplary.                 Students are sometimes more willing to share in plenary the work of fellow students than their own work. 
+        11. The ConcepTest consists of a challenging conceptual question or problem posed in
         multiple-choice format. Students turn to a partner seated nearby and they work together to reach a
         common answer
         for a given amount of time, taking turns (A talks, B listens, then B talks, A listens)
