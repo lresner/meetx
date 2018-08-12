@@ -67,25 +67,25 @@ Extra Extra — Passion + Enthusiasm + Energy (never enough)
       - Don't use as a 'gotcha'
       - Identify disengaged (probably lost) students, and cold-call and coach them through the problem.
 
-*CFUs*
-Checks for understanding are a key tactic for 
-  1. Introducing interacitivty into a lesson
-  2. Giving teacher as much 'early signaling' as possible to course correct — either academically or engagement-wise
+      *CFUs*
+      Checks for understanding are a key tactic for 
+        1. Introducing interacitivty into a lesson
+        2. Giving teacher as much 'early signaling' as possible to course correct — either academically or engagement-wise
 
-Examples:
-  1. Thumbs
-  2. Arm-barometers
-  3. Think-pair-share
-  4. Turn-to-partner
-  5. Cold-calling
-  6. Whiteboard display (count of 3)
-  7. Peer Instruction
-  8. Fist-to-5
-  9. Timed Pair Share
-  10. The ConcepTest consists of a challenging conceptual question or problem posed in
-  multiple-choice format. Students turn to a partner seated nearby and they work together to reach a
-  common answer
-  for a given amount of time, taking turns (A talks, B listens, then B talks, A listens)
+      Examples:
+        1. Thumbs
+        2. Arm-barometers
+        3. Think-pair-share
+        4. Turn-to-partner
+        5. Cold-calling
+        6. Whiteboard display (count of 3)
+        7. Peer Instruction
+        8. Fist-to-5
+        9. Timed Pair Share
+        10. The ConcepTest consists of a challenging conceptual question or problem posed in
+        multiple-choice format. Students turn to a partner seated nearby and they work together to reach a
+        common answer
+        for a given amount of time, taking turns (A talks, B listens, then B talks, A listens)
 
 **Avoid** “Does everyone understand?  Cool?  Does that make sense?”
 
