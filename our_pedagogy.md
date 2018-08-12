@@ -96,7 +96,7 @@ Extra Extra — Passion + Enthusiasm + Energy (never enough)
 topical, challenging content
 looking for and acknolwedging progress (publicly and privately)
 
-## IV. Content Guidlines
+## V. Content Guidlines
 
 Hooks and hangers — Content structured sequentially with cliffhangers…
 Hooks — Clear motivations for why somethign is important, useful, or fun to learn upfront
@@ -115,7 +115,7 @@ https://github.com/learn-co-curriculum/hs-oo-snapchat/blob/master/README.md
 
 
 
-## V. Who is a MEETx Teacher?
+## VI. Who is a MEETx Teacher?
 
 A MEETx teacher is.
 
