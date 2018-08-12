@@ -120,6 +120,21 @@ Content is always
   - topical (relative to students and interests and current events.  eg. using taylor swift for fake tweet.n 
   - diverse appeal
   - design to complete in pairs or small groups
+  
+ ```
+ count = True
+if count:
+    print("I like to count")
+else:
+print("I don't like to count")
+
+dance = True
+If dance:
+	print(“Abdul is a great dancer”)
+else
+	print(“Abdul has no rhythm.”)
+  ```
+
 
 eg.
 https://github.com/learn-co-curriculum/hs-oo-cash-register/blob/master/README.md
