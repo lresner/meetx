@@ -1,24 +1,37 @@
 ### MEETx Pedagogy Guidlines
 
-## Intro
+## Contents
+I. Overview
+II. Keys to success
+II. MEETx Outcomes
+III. Delivery Guidelines
+IV. Content Guidelines
+V. Notes
+
+## Overview
 
 JD Intro.
 
-The potentially high reward of MEETx model comes at great dificulty of execution.  Year-long (ie after-school) programs face enormous challenges, 
-including staffing, logistics, timing, and engagement.  The 
+The potentially high reward of MEETx model comes at great dificulty of execution.  
 
-## A MEET Classroom
+## Keys to Success
 
-A MEET Classroom is...
+Year-long (ie after-school) programs face enormous challenges, including staffing, logistics, timing, and engagement.  These challenges are layered on top of an already ambitious academci and social component of MEET.  In order to be successful, the following are critical:
+1. Top-notch teachers.  Teachers who excel not only at relationship and rapport building with students, but that are also skilled in the craft of delivering engaging, topical, interactive lessons.  Given the startup nature of MEETx, they must also be inclined to iterate and experiment rapidly in order to refine the delivery model until its successful.
+2. Content suited to online delivery.  Content that is hook-heavy, topical, interactive, and collaborative.  
+3. Delivery
+4. Community.  Students must feel invested in the overall success of the MEETx experiment, as well as the success and well-being of each other.  This set of cultural expectations should be set over the summer and continuously reinforced throughout the year with a mix of internal (eg. "You are pioneers of a program that could only exapns MEETs impact, but have have a global impact as well.  Learning how to collaborate is *as* important as learning how to code.  That means learning to learn and teach each other) and external motivations (eg. filed trips, pizza partys, MEET swag if they meet collective goals).
+
+This document will go into more detail on each of these levers.
+
+## MEETx Outcomes
+
 
 What are the ideal outcomes for a MEETx Y1 graduate?
 1. They will attend every class
 2. Enthusiastic
 3. Prepared to succeed in S2
 
-M
-
-## A mEETx Teacher
 
 ## Delivery Guidlines
 MEETX courses are:
@@ -27,6 +40,9 @@ MEETX courses are:
 - Collaborative
 - Introduce relevant and challenging material
 - Fun
+
+## A mEETx Teacher
+
 
 Both in terms of content and delivery style. 
 
@@ -41,7 +57,7 @@ Encourage and reinforce participation
 -Use CFUs REGULARLY
 
 
-3.  ALWAYS use names + Personal details 
+3. ALWAYS use names + Personal details 
   - To cold call
   - To reinforce positive behavior in front of the class (eg. 'Did everyone hear Laura's insight?  Laura can you repeat?  or Steve can you summarize what Laura said and possibly add?'
   - To gently state need from a student in front of class 'eg. Tommy we need you to wrap up and give your attention to Lisa.'
@@ -84,3 +100,5 @@ https://github.com/learn-co-curriculum/hs-oo-snapchat/blob/master/README.md
 topical, challenging content
 looking for and acknolwedging progress (publicly and privately)
 
+
+## A mEETx Teacher
