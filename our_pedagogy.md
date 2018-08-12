@@ -67,7 +67,7 @@ Extra Extra — Passion + Enthusiasm + Energy (never enough)
       - Don't use as a 'gotcha'
       - Identify disengaged (probably lost) students, and cold-call and coach them through the problem.
 
-      *CFUs*
+      #### CFUs
       Checks for understanding are a key tactic for 
         1. Introducing interacitivty into a lesson
         2. Giving teacher as much 'early signaling' as possible to course correct — either academically or engagement-wise
