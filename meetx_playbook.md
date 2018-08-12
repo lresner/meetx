@@ -155,7 +155,6 @@ A MEETx teacher is.
   - Well-spoken
 
 
-
 ### Interview Protocol
 
 Interview minimum two stages.  
