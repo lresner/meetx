@@ -2,8 +2,8 @@
 
 ## Contents
 I. Overview </br>
-II. Keys to Success </br>
 II. MEETx Outcomes </br>
+II. Keys to Success </br>
 III. Delivery Guidelines </br>
 IV. Content Guidelines </br>
 V. Notes
@@ -14,6 +14,15 @@ JD Intro.
 
 The potentially high reward of MEETx model comes at great dificulty of execution.  
 
+## MEETx Outcomes
+
+
+What are the ideal outcomes for a MEETx Y1 graduate?
+1. They will attend every class
+2. Enthusiastic
+3. Prepared to succeed in S2
+
+
 ## Keys to Success
 
 Year-long (ie after-school) programs face enormous challenges, including staffing, logistics, timing, and engagement.  These challenges are layered on top of an already ambitious academci and social component of MEET.  In order to be successful, the following are critical:
@@ -23,14 +32,6 @@ Year-long (ie after-school) programs face enormous challenges, including staffin
 4. Community.  Students must feel invested in the overall success of the MEETx experiment, as well as the success and well-being of each other.  This set of cultural expectations should be set over the summer and continuously reinforced throughout the year with a mix of internal (eg. "You are pioneers of a program that could only exapns MEETs impact, but have have a global impact as well.  Learning how to collaborate is *as* important as learning how to code.  That means learning to learn and teach each other) and external motivations (eg. filed trips, pizza partys, MEET swag if they meet collective goals).
 
 This document will go into more detail on each of these levers.
-
-## MEETx Outcomes
-
-
-What are the ideal outcomes for a MEETx Y1 graduate?
-1. They will attend every class
-2. Enthusiastic
-3. Prepared to succeed in S2
 
 
 ## Delivery Guidlines
