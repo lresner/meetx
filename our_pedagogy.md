@@ -129,13 +129,14 @@ https://github.com/learn-co-curriculum/hs-oo-snapchat/blob/master/README.md
 
 A MEETx teacher is.
 
-  - Students will have had a blast
-  - Students will feel inspired and motivated after every lesson
-  - Students will feel strong sense of commitment to MEET community
-  - Students will build stronger relationships with each other
-  - Students will be able to implement what they learned in class
-  - Students will build their learning agency
-  - Students will develop their maturity & responsibility
+  - Love the mission, love kids, love teaching
+  - Empathetic
+  - Demanding
+  - Highly emotionally intelligent (perceptive, EQ)
+  - Collaborative, curious, feedback-hungry & willingness to iterate + improve constantly (sense of ownership)
+  - Humility
+  - Well-spoken
+
 
 
 ### Interview Protocol
