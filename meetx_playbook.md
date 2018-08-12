@@ -1,4 +1,4 @@
-### MEETx Playbook
+# MEETx Playbook
 
 ## Contents
 I. Overview </br>
@@ -39,7 +39,7 @@ We believe these goals will be achieved by striving for the following classroom 
 Year-long (ie after-school) programs face enormous challenges, including staffing, logistics, timing, and engagement.  These challenges are layered on top of an already ambitious academci and social component of MEET.  In order to be successful, the following are critical:
 1. Top-notch teachers.  Teachers who excel not only at relationship and rapport building with students, but that are also skilled in the craft of delivering engaging, topical, interactive lessons.  Given the startup nature of MEETx, they must also be inclined to iterate and experiment rapidly in order to refine the delivery model until its successful.
 2. Content suited to online delivery.  Content that is hook-heavy, topical, interactive, and collaborative.  
-3. Delivery that maximizes engagement by using best practice instructional tactics.
+3. Delivery that maximizes engagement by using best practice instructional tactics and interactivity.
 4. Community.  Students must feel invested in the overall success of the MEETx experiment, as well as the success and well-being of each other.  This set of cultural expectations should be set over the summer and continuously reinforced throughout the year with a mix of internal (eg. "You are pioneers of a program that could only exapns MEETs impact, but have have a global impact as well.  Learning how to collaborate is *as* important as learning how to code.  That means learning to learn and teach each other) and external motivations (eg. filed trips, pizza partys, MEET swag if they meet collective goals).
 
 This document will go into more detail on each of these levers.
@@ -102,7 +102,9 @@ Both in terms of content and delivery style.
 **Avoid** “Does everyone understand?  Cool?  Does that make sense?”
 
 
-#### 4. Collaborative.  Most exercises are sturcutred to be completed in pairs or in groups.  "Collaborative learning" is emphasized as a value.  Guidelines are issued are to make everyone 'a student, everyone a learner.'
+#### 4. Collaborative.  
+
+Most exercises are sturcutred to be completed in pairs or in groups.  "Collaborative learning" is emphasized as a value.  Guidelines are issued are to make everyone 'a student, everyone a learner.'
 
 #### 5. Motivating
 topical, challenging content
@@ -179,7 +181,7 @@ Interview minimum two stages.
 Assign tictactoe in Python or JS.  Give ~ One week to complete.
 1. Whatss the first thing you did after you got the challenge.  How did you begin to approach the problem?
 2. Walk me through your code.
-3. *stop* them on a particular concept — how would you explain an array/dictionary/etc.
+3. *Stop* them on a particular concept — how would you explain an array/dictionary/etc.
 4. Walk me through your favorite feature.
 5. What woud you build if you had more time.
 6. How would you implement a basic AI (offense, defense)
