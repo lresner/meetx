@@ -58,11 +58,15 @@ Extra Extra — Passion + Enthusiasm + Energy (never enough)
 
 
 3. ALWAYS use names + Personal details 
-  - To cold call
+  
   - To reinforce positive behavior in front of the class (eg. 'Did everyone hear Laura's insight?  Laura can you repeat?  or Steve can you summarize what Laura said and possibly add?'
   - To gently state need from a student in front of class 'eg. Tommy we need you to wrap up and give your attention to Lisa.'
   - In written curriculum examples (eg. 'Jerry.dance = "true"')
   - In impromptu examples/metaphors (eg. 'Ok let's try another example of real-world functions.  We all know Jerry is an amazing dancer.  Jerry — can you break down the steps of the 'duggy?')
+  - To cold call
+    - use regular cold-calling to see if people are digesting important concepts and to encourage attentiveness.  "So Jenny, if I wanted to rename a file from the command line, what would I have to type?"
+    - Don't use as a 'gotcha'
+    - Identify disengaged (probably lost) students, and cold-call and coach them through the problem.
 
 *CFUs*
 Checks for understanding are a key tactic for 
