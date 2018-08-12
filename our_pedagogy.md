@@ -1,11 +1,11 @@
 ### MEETx Pedagogy Guidlines
 
 ## Contents
-I. Overview
-II. Keys to success
-II. MEETx Outcomes
-III. Delivery Guidelines
-IV. Content Guidelines
+I. Overview </br>
+II. Keys to Success </br>
+II. MEETx Outcomes </br>
+III. Delivery Guidelines </br>
+IV. Content Guidelines </br>
 V. Notes
 
 ## Overview
