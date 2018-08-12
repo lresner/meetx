@@ -6,7 +6,8 @@ II. MEETx Outcomes </br>
 II. Keys to Success </br>
 III. Delivery Guidelines </br>
 IV. Content Guidelines </br>
-V. Notes
+V. Who is a MEETx Teacher?
+VI. Notes
 
 ## I. Overview
 
@@ -107,4 +108,22 @@ https://github.com/learn-co-curriculum/hs-oo-snapchat/blob/master/README.md
 
 
 
-## A mEETx Teacher
+## V. Who is a MEETx Teacher?
+
+A MEETx teacher is.
+
+Recruitment notes.
+
+Describe one of the best/worst professional situations you’ve ever had. What made it great? (look for evidence of adaptiability, thriving in fast-paced environment, comfort with ambiguity and iteration, thrive in teams, ability to take ownership and intitiative.)
+What was your favorite moment ever in your classroom? (Look for love.  Do their eyes light up when talking about kids?  Does their heart open?  Do they gush?)
+Who is a student you will always remember?  why? (Same as above ^^)
+How do you feel when the minute before you start a lesson? (Look for evidence of ejoyment of craft and performance).
+Tell me about your lesson prep process (should be thorugh and thoughtful)
+Who is the best teacher you’ve ever seen?  why? (Should speak in reverence of fellow educator.  Notice smal things and nuance that teacher uses to be succesful in the classroom).
+Who is your favorite teacher ever, why? (Same as above ^^)
+Tell me about a time you were humbled recently (Is this person humble?  Can they be invested in a feedbakc-heavy culture?)
+Tell me about a big idea that you got really wrong (Same as above ^^)
+Tell me about a big idea you got really wrong.
+Thats the best decision you ever made
+Who was your favorite manager?  Why?  Favorite colleague?
+
