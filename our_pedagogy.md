@@ -17,11 +17,21 @@ The potentially high reward of MEETx model comes at great dificulty of execution
 
 ## II. MEETx Outcomes
 
+The goals of the MEETx program are threefold:
 
-What are the ideal outcomes for a MEETx Y1 graduate?
-1. They will attend every class
-2. Enthusiastic
-3. Prepared to succeed in S2
+1. Students will attend every class
+2. They will do so with enthusiasm
+3. They are prepared for success in Summer2.
+
+We beleie these goals will be achived by sriving for the following classroom outcomes:
+
+  1. Students will have had a blast
+  2. Students will feel inspired and motivated after every lesson
+  3. Students will feel strong sense of commitment to MEET community
+  4. Students will build stronger relationships with each other
+  5. Students will be able to implement what they learned in class
+  6. Students will build their learning agency
+  7. Students will develop their maturity & responsibility
 
 
 ## III. Keys to Success
