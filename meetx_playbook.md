@@ -6,8 +6,10 @@ II. MEETx Outcomes </br>
 II. Keys to Success </br>
 III. Delivery Guidelines </br>
 IV. Content Guidelines </br>
-V. Who is a MEETx Teacher?
-VI. Notes
+V. Platform Guidelines </br>
+VI. Feedback Systems <br/>
+VII. Who is a MEETx Teacher? <br/>
+VIII. Notes
 
 ## I. Overview
 
@@ -190,6 +192,24 @@ Assign tictactoe in Python or JS.  Give ~ One week to complete.
 5. What woud you build if you had more time.
 6. How would you implement a basic AI (offense, defense)
 7. Talk about a design decision that had a tradeoff.  
+
+## VII. Platform Guidelines
+
+The goal of the MEETx course design is to be platform-agnostic.  In other words, be modular enough to deliver on a collection of off-the-shelf tools or any LMS.  For the first year, we have chosen a mix of the following technologies:
+
+1. Wix Home.  Important for students to feel that they 'go home' to the MEETx course.  That they are enelooped in the brand and experience.  At the same time, to aoid clunky, heavy features, and provide a lean offering, we've built a Wix home site where students can login and see social updates, and have access to all the other technologies that they need in one place.
+2. BigBlueButton.  Video conferencing software which has the key feature of being able to create on-the-spot breakout rooms which teachers will use regularly for one-on-ones and group work during sessions.
+3. Github.  Main repository for MEETx curriculum as well as the students individual work.
+4. Slack. Communication throughout the week.
+5. Online polling: http://directpoll.com/
+
+For each technology, a list:
+
+Before every class:
+During every class: 
+After every class:
+
+(students will | teachers will)
 
 
 
