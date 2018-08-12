@@ -124,12 +124,15 @@ Content is always
   - design to complete in pairs or small groups
   
  ```
- count = True
+NO
+
+count = True
 if count:
     print("I like to count")
 else:
 print("I don't like to count")
 
+YES
 dance = True
 If dance:
 	print(“Abdul is a great dancer”)
