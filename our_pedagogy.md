@@ -41,18 +41,20 @@ MEETX courses are:
 - Introduce relevant and challenging material
 - Fun
 
-## A mEETx Teacher
-
-
 Both in terms of content and delivery style. 
+
+
+
 
 1. High-Energy
 Teachers convey genuine enthusiasm and passion for subjects
 Consistently create space to talk about why a certain subject is not just important but awesome (in the truest sense of the word...awe-inspring)
 Encourage and reinforce participation
+Extra Extra — Passion + Enthusiasm + Energy (never enough)
+
 
 2. Interactive
--5-min rule: Teachers never speak for more than 5 minutes at a time
+-5-min rule: Teachers never speak for more than 5 minutes at a time.  "Popcorning"
 -Every 5 minute block should bookend with an 'interactive practice' or other *CFU*
 -Use CFUs REGULARLY
 
@@ -95,6 +97,10 @@ Content is always
 eg.
 https://github.com/learn-co-curriculum/hs-oo-cash-register/blob/master/README.md
 https://github.com/learn-co-curriculum/hs-oo-snapchat/blob/master/README.md
+
+4. Relevant Material
+Hooks and hangers — Content structured sequentially with cliffhangers…
+Hooks — Clear motivations for why somethign is important, useful, or fun to learn upfront
 
 5. Motivating
 topical, challenging content
