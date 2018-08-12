@@ -97,6 +97,7 @@ Extra Extra — Passion + Enthusiasm + Energy (never enough)
         multiple-choice format. Students turn to a partner seated nearby and they work together to reach a
         common answer
         for a given amount of time, taking turns (A talks, B listens, then B talks, A listens)
+        12.  Great resource: https://www.fctl.ucf.edu/teachingandlearningresources/coursedesign/assessment/content/101_tips.pdf
 
 **Avoid** “Does everyone understand?  Cool?  Does that make sense?”
 
@@ -107,7 +108,7 @@ Extra Extra — Passion + Enthusiasm + Energy (never enough)
 topical, challenging content
 looking for and acknolwedging progress (publicly and privately)
 
-## V. Content Guidlines
+## V. Content Guidelines
 
 Hooks and hangers — Content structured sequentially with cliffhangers…
 Hooks — Clear motivations for why somethign is important, useful, or fun to learn upfront
