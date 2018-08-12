@@ -54,20 +54,20 @@ MEETX courses are:
 
 Both in terms of content and delivery style. 
 
-1. High-Energy
+#### 1. High-Energy
 Teachers convey genuine enthusiasm and passion for subjects
 Consistently create space to talk about why a certain subject is not just important but awesome (in the truest sense of the word...awe-inspring)
 Encourage and reinforce participation
 Extra Extra — Passion + Enthusiasm + Energy (never enough)
 
 
-2. Interactive
--5-min rule: Teachers never speak for more than 5 minutes at a time.  "Popcorning"
--Every 5 minute block should bookend with an 'interactive practice' or other *CFU*
--Use CFUs REGULARLY
+#### 2. Interactive
+	- 5-min rule: Teachers never speak for more than 5 minutes at a time.  "Popcorning"
+	- Every 5 minute block should bookend with an 'interactive practice' or other *CFU*
+	- Use CFUs REGULARLY
 
 
-3. ALWAYS use names + Personal details 
+#### 3. ALWAYS use names + Personal details 
     - To reinforce positive behavior in front of the class (eg. 'Did everyone hear Laura's insight?  Laura can you repeat?  or Steve can you summarize what Laura said and possibly add?'
     - To gently state need from a student in front of class 'eg. Tommy we need you to wrap up and give your attention to Lisa.'
     - In written curriculum examples (eg. 'Jerry.dance = "true"')
@@ -102,9 +102,9 @@ Extra Extra — Passion + Enthusiasm + Energy (never enough)
 **Avoid** “Does everyone understand?  Cool?  Does that make sense?”
 
 
-4. Collaborative.  Most exercises are sturcutred to be completed in pairs or in groups.  "Collaborative learning" is emphasized as a value.  Guidelines are issued are to make 'everyone a student, everyone a learner.'
+#### 4. Collaborative.  Most exercises are sturcutred to be completed in pairs or in groups.  "Collaborative learning" is emphasized as a value.  Guidelines are issued are to make 'everyone a student, everyone a learner.'
 
-5. Motivating
+#### 5. Motivating
 topical, challenging content
 looking for and acknolwedging progress (publicly and privately)
 
