@@ -8,13 +8,13 @@ III. Delivery Guidelines </br>
 IV. Content Guidelines </br>
 V. Notes
 
-## Overview
+## I. Overview
 
 JD Intro.
 
 The potentially high reward of MEETx model comes at great dificulty of execution.  
 
-## MEETx Outcomes
+## II. MEETx Outcomes
 
 
 What are the ideal outcomes for a MEETx Y1 graduate?
@@ -23,7 +23,7 @@ What are the ideal outcomes for a MEETx Y1 graduate?
 3. Prepared to succeed in S2
 
 
-## Keys to Success
+## III. Keys to Success
 
 Year-long (ie after-school) programs face enormous challenges, including staffing, logistics, timing, and engagement.  These challenges are layered on top of an already ambitious academci and social component of MEET.  In order to be successful, the following are critical:
 1. Top-notch teachers.  Teachers who excel not only at relationship and rapport building with students, but that are also skilled in the craft of delivering engaging, topical, interactive lessons.  Given the startup nature of MEETx, they must also be inclined to iterate and experiment rapidly in order to refine the delivery model until its successful.
@@ -34,18 +34,14 @@ Year-long (ie after-school) programs face enormous challenges, including staffin
 This document will go into more detail on each of these levers.
 
 
-## Delivery Guidlines
+## IV. Delivery Guidlines
 MEETX courses are:
 - High-energy
 - Interactive
 - Collaborative
-- Introduce relevant and challenging material
 - Fun
 
 Both in terms of content and delivery style. 
-
-
-
 
 1. High-Energy
 Teachers convey genuine enthusiasm and passion for subjects
@@ -87,6 +83,16 @@ multiple-choice format. Students turn to a partner seated nearby and they work t
 common answer
 for a given amount of time, taking turns (A talks, B listens, then B talks, A listens)
 
+
+4. Motivating
+topical, challenging content
+looking for and acknolwedging progress (publicly and privately)
+
+## IV. Content Guidlines
+
+Hooks and hangers — Content structured sequentially with cliffhangers…
+Hooks — Clear motivations for why somethign is important, useful, or fun to learn upfront
+
 Content is always
 - interactive
 - question/cliffhanger driven (eg fake tweet lab)
@@ -99,13 +105,6 @@ eg.
 https://github.com/learn-co-curriculum/hs-oo-cash-register/blob/master/README.md
 https://github.com/learn-co-curriculum/hs-oo-snapchat/blob/master/README.md
 
-4. Relevant Material
-Hooks and hangers — Content structured sequentially with cliffhangers…
-Hooks — Clear motivations for why somethign is important, useful, or fun to learn upfront
-
-5. Motivating
-topical, challenging content
-looking for and acknolwedging progress (publicly and privately)
 
 
 ## A mEETx Teacher
