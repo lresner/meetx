@@ -4,6 +4,14 @@ Every week curriculum include:
 - Schedule
 - Lesson Plan
 - Deck (eg. https://docs.google.com/presentation/d/12H4MDWtvhW_3LY4MKj8qvCKZORWZX2Pw6qIuiVqkdUU/copy?id=12H4MDWtvhW_3LY4MKj8qvCKZORWZX2Pw6qIuiVqkdUU&copyCollaborators=false&copyComments=false&title=Copy%20of%20First%20Day%20Deck%20-%20WD%20I&token=AC4w5VjObdWK8boKiAh599VhVy3Ugd-29g%3A1534082869967&usp=slides_web)
+  - Weclome/acknoledge feedback
+  - Hook/Cliffhanger
+  - Schedule
+  - Takeaways
+  - Next Class Hook/Cliffhanger
+  - Feedback reminder
+  - Tell kids theyre awesome
+  
 - Teacher Guide
 - At least one lab
 - At least one stretch lab
