@@ -1,7 +1,23 @@
 # Meeting 1: HTML 
 
-##Objective
-***Students will be able to create their own HTML page from scratch***
+### Day Before Checklist
+- upload relevant materials
+- text students
+- review student code challenge submissions
+- review deck and lecutre notes, including feedback from previous session
+- pre set-up breakout rooms
+### Day of Checklist
+
+
+## Schedule
+4:00 - 4:10 Do Now
+4:10 - 4:45 Lecture
+4:45 - 5:30 Lab
+5:30 - 5:50 Lab Review
+5:50 - 6:00 Wrap up + Feedback
+
+## Objective
+***Students will learn the basics of HTML and be able to create their own HTML page from scratch***
 
 ## SWBATs
 + Structure an HTML page using doctype, html, head, title, and body tags
@@ -15,22 +31,21 @@
 
 + Start with an altered Tweet from a celebrity, which you've changed using Chrome's Developer Tools. For example, you can have Justin Bieber tweet: "I love Flatiron School and coding SO SO much!", or President Obama, "I am Barack Obama and I approve the Flatiron School." Tell students they'll know how to do that by the end of the lesson.
 + So far we've learned only about backend languages, Ruby in particular. How do we control what we see, though? That's where front-end programming comes in!
-+ Ask students for their favorite websites and bring it up on the screen and click `view source`.
-  + Students can go to a website of their choice on their own computers and right click and see the source code.
++ *Ask* students for their favorite websites and bring it up on the screen and click `view source`.
+  + *TPS? - 3m* Students can go to a website of their choice on their own computers and right click and see the source code.
 + Web pages are made up of two things: HTML and CSS. Every single web page on the internet contains HTML and CSS.
 + HTML stands for Hypertext Markup Language, and **every single website** on the internet is written in HTML. Every. Single. Page.+ HTML provides the skeleton for websites and organizes the different elements on a page into categories like image, paragraph, and title. 
 + HTML doesn't have anything to do with the layout of text on a page or how the page looks. All it does is tell the browser what different types of content is on the page.
 + We use HTML to mark a navigation bar, tell the browser that this piece of content is an article, this is a caption related to this image, this is a menu with items on it, etc.
-+ Ask the students why is this important.
++ *Ask* the students why is this important.
   + I can simply look at a page to determine what type of content everything is.
   + Computers are stupid and can't infer knowledge the way we can. Semantic tags let computers know exactly what's what. Web crawlers like Google's use HTML to actual determine what text on a page is content, which helps Google put the appropriate content in the search results you see. Services like Pocket and Embedly use tags to pull certain parts of an article to save to your reading list, without pulling the entire site.
 
 
 ## Lesson Plan
-+ With the class, start by building out a website. Prompt students for topic for the website.
++ With the class, start by building out a website. *Prompt* students for topic for the website.
 + Prompt students for suggestions of what to put on a page.
-+ Model how to create an html file:
-  + `touch index.html`, then open in both the browser and Nitrous.
++ Model how to create an html file in JSFiddle:
 + `<!doctype html>`
   * Just like there are different versions of iphone apps, there are different versions of programming languages. The very first thing we have to do is tell the browser what version of HTML we're using. This is the doctype for HTML5, the most recent version of HTML.
 + `<html> </html>`
@@ -43,7 +58,7 @@
 + There is one tag that does display text in the head - the title tag
 ```html
 <head>
-  <title> My awesome site </title>
+  <title> Abdullah's awesome site </title>
 </head>
 ```
   * the title tag controls the text in the tab of the browser
@@ -78,21 +93,21 @@
 + Ordered List:
 ```html
   <ol>Food I Love (in preferential order)
-    <li>Bacon </li>
+    <li>F alafel </li>
     <li> Burritos</li>
-    <li> Fried Chicken </li>
-    <li> Hot dogs </li>
+    <li> Schwarma </li>
+    <li> Zucchini </li>
   </ol>
 ```
   * To make an ordered list, we use the `ol` tag. The contents of the list are surrounded in opening and closing tags
   * All the list items are surrounded in the `li` tag.
 + Unorderd List:
 ```html
-  <ul> Ancient Mysteries
-    <li> What the fox says</li>
-    <li> Who was burried in Grant's tomb </li>
-    <li> The location of Atlantis</li>
-    <li> Something about the Burmuda Triangle</li>
+  <ul> Reasons MEET is awesome
+    <li> Ted</li>
+    <li> I get to hang with my friends </li>
+    <li> Ted</li>
+    <li> NOT the cafeteria food/li>
   </ul>
 ```
   * To create an unordered list, we use the `ul` tag.
