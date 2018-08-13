@@ -212,6 +212,20 @@ After every class:
 
 (students will | teachers will)
 
+<table>
+  <tr>
+    <td>Before Class</td>
+    <td>During Class</td>
+    <td>After Class</td>
+  </tr>
+  <tr>
+	</tr>
+  <tr>
+	  <td> Students will: </td>
+	  <td> Teachers will: </td>
+	</tr>
+</table>
+
 ## Feedback Systems
 
 Teaching is hard.  Really hard.  Especially after-school . Especially on-line.   So we have to be constantly improving our content and our delivery style.  
