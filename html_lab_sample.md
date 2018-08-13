@@ -10,11 +10,11 @@
 
 
 ## Schedule
-4:00 - 4:10 Do Now
-4:10 - 4:45 Lecture
-4:45 - 5:30 Lab
-5:30 - 5:50 Lab Review
-5:50 - 6:00 Wrap up + Feedback
+4:00 - 4:10 Do Now </br>
+4:10 - 4:45 Lecture </br>
+4:45 - 5:30 Lab </br>
+5:30 - 5:50 Lab Review </br>
+5:50 - 6:00 Wrap up + Feedback </br>
 
 ## Objective
 ***Students will learn the basics of HTML and be able to create their own HTML page from scratch***
