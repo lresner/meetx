@@ -13,8 +13,9 @@ VIII. Notes
 
 ## I. Overview
 
-JD Intro.
+Established in 2004, MEET (Middle East Entrepreneurs of Tomorrow) is an educational excellence NGO that harnesses the power of technology and business to create an active network of young Palestinian and Israeli leaders who share a common professional language and capacity for joint action. In partnership with MIT (Massachusetts Institute of Technology), MEET delivers an intensive, three-year technology, business education, and leadership program that provides the tools and opportunities necessary to impact economic, social, and political change across the region.
 
+MEETx is a community of passionate committed educators and special young leaders who are pioneering a new blended learning model to bring transformative education to every corner in the region.
 The potentially high reward of MEETx model comes at great dificulty of execution.  
 
 ## II. MEETx Outcomes
