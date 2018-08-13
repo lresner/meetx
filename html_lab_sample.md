@@ -7,7 +7,7 @@ Every week of curriculum should include the following assetts:
   - Welcome/acknowledge feedback
   - Hook/Cliffhanger
   - Schedule
-  - Takeaways
+  - Takeaways (ie. if parents ask "what did you learn today?" what are the three things you'd want them to say.")
   - Next Class Hook/Cliffhanger
   - Feedback reminder
   - Tell kids theyre awesome
