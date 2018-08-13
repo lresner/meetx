@@ -229,9 +229,70 @@ After every class:
   </tr>
 </table>
 
-## Feedback Systems
+## VII. Feedback Systems
 
 Teaching is hard.  Really hard.  Especially after-school . Especially on-line.   So we have to be constantly improving our content and our delivery style.  
 
-## Notes
+## VIII. Notes
+
+Expectations
+Bonding
+Technical tools
+Tech uglier basics
+Social
+
+Distributed motivation - distributed accountability
+Feeling responsible for others and for the group’s success.
+Feeling that the MEETx success is bigger than themselves and than MEET’s success. They need to feel invested in the project’s success.
+
+(1000 points trip to facebook | 900 points pizza party | 800 points hats ) 
+Text students every morning personally
+
+Motivation mix: intirnsic (meet mission), extirnisc (pizza), internal ( skills)
+What would be the X things to train teachers to build accountability and teamwork.  Teachers
+Students design their won system of accountability
+
+Intermediate huge incentives.  Spaced out incentives.
+Scorebord mapped to kpis.  Revealed at the end of every class.
+Attendance.  Labs completed.  Karma points.  
+
+Push methods + Pull methods
+
+Togetherness that much more important.  Special experiment.  Pioneers.  Prestige.
+Expectation setting. 
+HUb compettion
+
+
+Probably reasons for churn + interventions
+
+Early signals **
+1 on 1s
+Interaccvitiy
+Weekly surveys
+
+Pre-trouble spots
+
+Parents engagement
+
+Platform:  Breakout Video Rooms**** For one on ones + small group work.
+This is everything!  
+https://www.youtube.com/watch?v=q5N-lcocJss
+Can students jump into their own on their own?
+Can differentiate!  OK you dudes chill here and we’re going to go over here for extra help!
+
+Conversations are more interesting than presentations.  Co-teach?
+
+Checklist for students
+-30 min before class
+-safe quiet space
+-technology working (wifi and computer)
+-environment all set up
+-something social? (buddy check in?)
+-start with the to do
+
+Light background music?
+
+
+
+
 
