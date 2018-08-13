@@ -214,16 +214,17 @@ After every class:
 
 <table>
   <tr>
+	  <td></td>
     <td>Before Class</td>
     <td>During Class</td>
     <td>After Class</td>
   </tr>
   <tr>
-	</tr>
+    <td> Students will: </td>
+  </tr>
   <tr>
-	  <td> Students will: </td>
-	  <td> Teachers will: </td>
-	</tr>
+     <td> Teachers will: </td>
+  </tr>
 </table>
 
 ## Feedback Systems
