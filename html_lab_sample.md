@@ -1,3 +1,5 @@
+![alt text](file:///Users/lyel/Desktop/beyMeetx.png)
+
 # Meeting 1: HTML 
 
 ### Day Before Checklist
