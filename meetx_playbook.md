@@ -204,6 +204,7 @@ Important for students to feel that they 'go home' to the MEETx course.  That th
 3. Github.  Main repository for MEETx curriculum as well as the students individual work.
 4. Slack. Communication throughout the week.
 5. Online polling: http://directpoll.com/
+6. JSFiddle
 
 For each technology, a list:
 
