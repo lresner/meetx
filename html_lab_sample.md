@@ -26,7 +26,7 @@
 + Organize sections of HTML with div tags
 
 ## To Do
-WikiMapGame(Grapefuirit, Astronauht)
+WikiMapGame(Grapefuirit, Astronaut)
 Python Review
 
 ## Motivation / Why Should You Care?
