@@ -25,6 +25,10 @@
 + Create an ordered and unordered list using the ol, ul, li tags
 + Organize sections of HTML with div tags
 
+## To Do
+WikiMapGame(Grapefuirit, Astronauht)
+Python Review
+
 ## Motivation / Why Should You Care?
 
 + **A Personal Website lab exists in the `CSS` section on Learn.co. Feel free to use this as your basis for having students learn HTML - they write the HTML for their personal sites, and then style it with CSS**
