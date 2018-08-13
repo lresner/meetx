@@ -15,7 +15,7 @@ VIII. Notes
 
 Established in 2004, MEET (Middle East Entrepreneurs of Tomorrow) is an educational excellence NGO that harnesses the power of technology and business to create an active network of young Palestinian and Israeli leaders who share a common professional language and capacity for joint action. In partnership with MIT (Massachusetts Institute of Technology), MEET delivers an intensive, three-year technology, business education, and leadership program that provides the tools and opportunities necessary to impact economic, social, and political change across the region.
 
-MEETx is a community of passionate committed educators and special young leaders who are pioneering a new blended learning model to bring transformative education to every corner in the region.
+MEETx is a community of passionate committed educators and special young leaders who are pioneering a new synchronized blended learning model to bring transformative education to every corner in the region.   
 The potentially high reward of MEETx model comes at great dificulty of execution.  
 
 ## II. MEETx Outcomes
@@ -107,11 +107,13 @@ Both in terms of content and delivery style.
 
 #### 4. Collaborative.  
 
-Most exercises are sturcutred to be completed in pairs or in groups.  "Collaborative learning" is emphasized as a value.  Guidelines are issued are to make everyone 'a student, everyone a learner.'
+- Most exercises are sturcutred to be completed in pairs or in groups.  
+- "Collaborative learning" is emphasized as a value.  
+- Guidelines are issued are to make everyone 'a student, everyone a learner.'
 
 #### 5. Motivating
-topical, challenging content
-looking for and acknolwedging progress (publicly and privately)
+- topical, challenging content
+- looking for and acknolwedging progress (publicly and privately)
 
 ## V. Content Guidelines
 
@@ -153,7 +155,6 @@ https://github.com/learn-co-curriculum/hs-oo-snapchat/blob/master/README.md
 
 ## VI. Who is a MEETx Teacher?
 
-A MEETx teacher is.
 
   - Love the mission, love kids, love teaching
   - Empathetic
