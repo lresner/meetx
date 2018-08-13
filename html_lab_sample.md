@@ -1,4 +1,4 @@
-Every week curriculum include:
+Every week of curriculum should include the following assetts:
 
 **For class:**
 - Schedule
