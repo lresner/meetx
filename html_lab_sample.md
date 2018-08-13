@@ -1,4 +1,4 @@
-![alt text](file:///Users/lyel/Desktop/beyMeetx.png)
+![Beyonce](beyMeetx.png)
 
 # Meeting 1: HTML 
 
