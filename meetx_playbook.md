@@ -38,7 +38,7 @@ The goals of the MEETx program are threefold:
    - 90% "I am confident in my CS abilities
    - 90% "I am more confident in my ability to learn difficult things."
 
-We believe these goals will be achieved by striving for the following classroom outcomes:
+**We believe these goals will be achieved by striving for the following classroom outcomes:**
 
   1. Students will have had a blast
   2. Students will feel inspired and motivated after every lesson
