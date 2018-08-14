@@ -94,7 +94,7 @@ Both in terms of content and delivery style.
 	      - Don't use as a 'gotcha'
 	      - Identify disengaged (probably lost) students, and cold-call and coach them through the problem.
 
-      '''
+      ```
       ##### CFUs
       Checks for understanding are a key tactic for 
         1. Introducing interacitivty into a lesson
@@ -116,8 +116,12 @@ Both in terms of content and delivery style.
         common answer
         for a given amount of time, taking turns (A talks, B listens, then B talks, A listens)
         12.  Great resource: https://www.fctl.ucf.edu/teachingandlearningresources/coursedesign/assessment/content/101_tips.pdf
+	
+	**Avoid** “Does everyone understand?  Cool?  Does that make sense?” 
+	
+	```
 
-<span style="color:red">Avoid</span> “Does everyone understand?  Cool?  Does that make sense?” '''
+
 
 
 #### 4. Collaborative.  
