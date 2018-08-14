@@ -5,7 +5,7 @@
 # Meeting 1: HTML 
 
 ### Day Before Checklist
--create Y1 Yearlong Course repo
+- create Y1 Yearlong Course repo
 - collect all github user names from students and make them collaborators on the course repo
 - upload relevant materials
 - text students
