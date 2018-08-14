@@ -145,7 +145,7 @@ Python Review
   
 The point of this lab is to be exactly what it's called: A playground! What that means is that this is a place for you to experiment with HTML. Don't worry about making mistakes. We want you to get comfortable making mistakes, being okay making mistakes, and then learning from them.
 
-Take a look at the Mozilla Developer Network HTML tag documentationn for suggestions of tags to play with. Have fun making this site yours, and mess around with different HTML tags.
+Take a look at the Mozilla Developer Network HTML tag documentation for suggestions of tags to play with. Have fun making this site yours, and mess around with different HTML tags.
 
 If you need some guidance getting started...
 
@@ -153,11 +153,9 @@ If you need some guidance getting started...
 
 2. Use an h1 tag to make the title of your page
 
-3. Use and h2 or h3 tag to make a subheader that has a description of your site
+3. Find a funny gif online and use the img tag to make it appear on your site
 
-4. Find a funny gif online and use the img tag to make it appear on your site
-
-5. Use an a tag to put the location of the gif
+4. Use an <a> tag to put the location of the gif
 
 Bonus Familiar with HTML and CSS? See if you can change the background color, font style, and font-color. This is going to be tricky but we're using Bootstrap, an external stylesheet, so you won't see all the CSS for the page in this directory. There is a way to do it though, so good luck!
 
