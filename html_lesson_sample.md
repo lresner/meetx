@@ -110,7 +110,7 @@ Python Review
 + Ordered List:
 ```html
   <ol>Food I Love (in preferential order)
-    <li>F alafel </li>
+    <li> Falafel </li>
     <li> Burritos</li>
     <li> Schwarma </li>
     <li> Zucchini </li>
@@ -133,10 +133,10 @@ Python Review
   <div>
     <p> I love all the food. Food is my favorite thing.</p>
     <ol>Food I Love (in preferential order)
-      <li>Bacon </li>
+      <li> Falafelt </li>
       <li> Burritos</li>
-      <li> Fried Chicken </li>
-      <li> Hot dogs </li>
+      <li> Schwarma </li>
+      <li> Zucchini </li>
     </ol>
   </div>
 ```
