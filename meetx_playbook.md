@@ -252,9 +252,9 @@ After every class:
 
 Teaching is hard.  Really hard.  Especially after-school . Especially on-line.   So we have to be constantly improving our content and our delivery style.  
 
-After each class:  Student to teacher feedback.  Teacher self-reflection.
-After each unit: Student self-reflection/mid-course survey.
-After the year: Post-course feedback.  Teacher Seld reflection.
+After each class:  Student to teacher feedback.  Teacher self-reflection. </br>
+After each unit: Student self-reflection/mid-course survey. </br>
+After the year: Post-course feedback.  Teacher Seld reflection. </br>
 
 ## VIII. Notes
 
