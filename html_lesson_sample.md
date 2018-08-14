@@ -36,6 +36,10 @@
 + Create an ordered and unordered list using the ol, ul, li tags
 + Organize sections of HTML with div tags
 
+## Deck
+
+https://docs.google.com/presentation/d/1dryxDAI3OMBFa3Zr6uXlfa3QNgh2K5WCDxADPLWFg9U/edit#slide=id.g3ec78746d0_0_18
+
 ## To Do
 WikiMapGame(Grapefruit, Astronaut)
 Python Review
