@@ -49,7 +49,7 @@ Python Review
 
 + So far we've learned only about backend languages, Ruby in particular. How do we control what we see, though? That's where front-end programming comes in!
 + *Ask* students for their favorite websites and bring it up on the screen and click `view source`.
-  + *TPS? - 3m* Students can go to a website of their choice on their own computers and right click and see the source code.
+  + *THINK-PAIR-SHARE: Students break off into private video pairs for 3 MINUTES. Students go to a website of their choice on their own computers and right click and see the source code.  Ask them for 1 cool thing that they've learned.
 + Web pages are made up of two things: HTML and CSS. Every single web page on the internet contains HTML and CSS.
 + HTML stands for Hypertext Markup Language, and **every single website** on the internet is written in HTML. Every. Single. Page.+ HTML provides the skeleton for websites and organizes the different elements on a page into categories like image, paragraph, and title. 
 + HTML doesn't have anything to do with the layout of text on a page or how the page looks. All it does is tell the browser what different types of content is on the page.
