@@ -264,16 +264,15 @@ Technical tools
 Tech uglier basics
 Social
 
-Distributed motivation - distributed accountability
-Feeling responsible for others and for the group’s success.
-Feeling that the MEETx success is bigger than themselves and than MEET’s success. They need to feel invested in the project’s success.
-
-(1000 points trip to facebook | 900 points pizza party | 800 points hats ) 
-Text students every morning personally
-
-Motivation mix: intirnsic (meet mission), extirnisc (pizza), internal ( skills)
-What would be the X things to train teachers to build accountability and teamwork.  Teachers
-Students design their won system of accountability
+On culture
+- Distributed motivation - distributed accountability
+- Feeling responsible for others and for the group’s success.
+- Feeling that the MEETx success is bigger than themselves and than MEET’s success. They need to feel invested in the project’s success.
+- (1000 points trip to facebook | 900 points pizza party | 800 points hats ) 
+- Text students every morning personally
+- Motivation mix: intrinsic (meet mission), extrinsic (pizza), internal ( skills)
+- What would be the X things to train teachers to build accountability and teamwork?
+- Teachers Students design their won system of accountability with a workshop last day of class
 
 Intermediate huge incentives.  Spaced out incentives.
 Scorebord mapped to kpis.  Revealed at the end of every class.
@@ -313,7 +312,7 @@ Checklist for students
 -something social? (buddy check in?)
 -start with the to do
 
-Light background music?
+Light background music during class?
 
 
 
