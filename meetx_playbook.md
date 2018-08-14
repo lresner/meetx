@@ -22,9 +22,20 @@ The potentially high reward of MEETx model comes at great dificulty of execution
 
 The goals of the MEETx program are threefold:
 
-1. Students will attend every class
-2. They will do so with enthusiasm
+1. Students will attend every class 
+   — 90% Attendance 
+   - 90% Retention
+2. They will do so with enthusiasm 
+   - 50+ NPS score 
+   - 90%+ “I am excited to start the summer program.”
+   - 90%+ “Did you make at least 1 good friend (over the yearlong)?”
+   - 90%+ “My peers have enhanced my learning.”
+   - 90%+ “I have enhanced the learning of at least 1 of my peers.” (asked to both teachers and students)
+   - 90%+ “I HAD FUN!”
+
 3. They are prepared for success in Summer2.
+   - 90% "I am confident in my CS abilities
+   - 90% "I am more confident in my ability to learn difficult things."
 
 We believe these goals will be achieved by striving for the following classroom outcomes:
 
