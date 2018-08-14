@@ -51,7 +51,8 @@ Python Review
 + *Ask* students for their favorite websites and bring it up on the screen and click `view source`.
   + *THINK-PAIR-SHARE: Students break off into private video pairs for 3 MINUTES. Students go to a website of their choice on their own computers and right click and see the source code.  Ask them for 1 cool thing that they've learned.
 + Web pages are made up of two things: HTML and CSS. Every single web page on the internet contains HTML and CSS.
-+ HTML stands for Hypertext Markup Language, and **every single website** on the internet is written in HTML. Every. Single. Page.+ HTML provides the skeleton for websites and organizes the different elements on a page into categories like image, paragraph, and title. 
++ HTML stands for Hypertext Markup Language, and **every single website** on the internet is written in HTML. Every. Single. Page.
++ HTML provides the skeleton for websites and organizes the different elements on a page into categories like image, paragraph, and title. 
 + HTML doesn't have anything to do with the layout of text on a page or how the page looks. All it does is tell the browser what different types of content is on the page.
 + We use HTML to mark a navigation bar, tell the browser that this piece of content is an article, this is a caption related to this image, this is a menu with items on it, etc.
 + *Ask* the students why is this important.
@@ -60,9 +61,9 @@ Python Review
 
 
 ## Lesson Plan
++ Model how to create an html file in JSFiddle:
 + With the class, start by building out a website. *Prompt* students for topic for the website.
 + Prompt students for suggestions of what to put on a page.
-+ Model how to create an html file in JSFiddle:
 + `<!doctype html>`
   * Just like there are different versions of iphone apps, there are different versions of programming languages. The very first thing we have to do is tell the browser what version of HTML we're using. This is the doctype for HTML5, the most recent version of HTML.
 + `<html> </html>`
