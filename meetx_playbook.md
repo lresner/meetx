@@ -23,7 +23,7 @@ The potentially high reward of MEETx model comes at great dificulty of execution
 The goals of the MEETx program are threefold:
 
 **1. Retention**
-   — 90% Attendance 
+   - 90% Attendance 
    - 90% Retention
    
 **2. Enthusiasm**
