@@ -44,13 +44,17 @@ Year-long (ie after-school) programs face enormous challenges, including staffin
 2. **Content suited to online delivery**  Content that is hook-heavy, topical, interactive, and collaborative.  
 3. **Delivery that maximizes engagement** by using best practice instructional tactics, interactivity, and *classroom management.*
 4. **Community**  Students must feel invested in the overall success of the MEETx experiment, as well as the success and well-being of each other.  This set of cultural expectations should be set over the summer and continuously reinforced throughout the year with a mix of internal (eg. "You are pioneers of a program could not only expand MEET's impact, but have have a global impact as well.  Learning how to collaborate is *as* important as learning how to code.  That means learning to learn and teach each other) and external motivations (eg. filed trips, pizza partys, MEET swag if they meet collective goals).
+5. Culture.  Collaborative.  Agency.  
 
 This document will go into more detail on each of these levers.
 
 
 ## IV. Delivery Guidelines
 
-MEETX courses are:
+MEETx course delivery has a very high degree of difficulty.  After school, online, and K-12 are all notoriously difficult contexts to deliver effecrtive courses.  MEETx will have to overcome the challenges presented by each of these, while maintaining the "MEET" factor — a rare and special blend of community, empahty, open-mindedness, and dignity.  
+
+In order to achieve the desired outcomes, MEETx classrooms must be designed and exectued in ways that are:
+
   - High-energy
   - Interactive
   - Collaborative
