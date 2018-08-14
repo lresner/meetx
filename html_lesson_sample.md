@@ -5,12 +5,19 @@
 # Meeting 1: HTML 
 
 ### Day Before Checklist
+-create Y1 Yearlong Course repo
+- collect all github user names from students and make them collaborators on the course repo
 - upload relevant materials
 - text students
 - review student code challenge submissions
 - review deck and lecutre notes, including feedback from previous session
 - pre set-up breakout rooms
+
 ### Day of Checklist
+- set up your Zoom/BBB meeting 
+- paste meeting link in Y1 Classroom Home
+- upload the day's deck to 'presentation' in Y1 Classroom home
+- Link to the github repo for the days lesson in 'Y1 Classroom' home
 
 
 ## Schedule
