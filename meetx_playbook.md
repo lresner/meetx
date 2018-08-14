@@ -15,7 +15,7 @@ VIII. Notes
 
 Established in 2004, MEET (Middle East Entrepreneurs of Tomorrow) is an educational excellence NGO that harnesses the power of technology and business to create an active network of young Palestinian and Israeli leaders who share a common professional language and capacity for joint action. In partnership with MIT (Massachusetts Institute of Technology), MEET delivers an intensive, three-year technology, business education, and leadership program that provides the tools and opportunities necessary to impact economic, social, and political change across the region.
 
-MEETx is a community of passionate committed educators and special young leaders who are pioneering a new synchronized blended learning model to bring transformative education to every corner in the region.   
+MEETx is a community of passionate committed educators and special young leaders who are pioneering a new synchronized, blended learning model to bring transformative education to every corner in the region.   
 The potentially high reward of MEETx model comes at great dificulty of execution.  
 
 ## II. MEETx Outcomes
@@ -31,7 +31,7 @@ We believe these goals will be achieved by striving for the following classroom 
   1. Students will have had a blast
   2. Students will feel inspired and motivated after every lesson
   3. Students will feel strong sense of commitment to MEET community
-  4. Students will build stronger relationships with each other
+  4. Students will feel a strong sense of commitment to each other
   5. Students will be able to implement what they learned in class
   6. Students will build their learning agency
   7. Students will develop their maturity & responsibility
@@ -39,11 +39,11 @@ We believe these goals will be achieved by striving for the following classroom 
 
 ## III. Keys to Success
 
-Year-long (ie after-school) programs face enormous challenges, including staffing, logistics, timing, and engagement.  These challenges are layered on top of an already ambitious academci and social component of MEET.  In order to be successful, the following are critical:
-1. Top-notch teachers.  Teachers who excel not only at relationship and rapport building with students, but that are also skilled in the craft of delivering engaging, topical, interactive lessons.  Given the startup nature of MEETx, they must also be inclined to iterate and experiment rapidly in order to refine the delivery model until its successful.
-2. Content suited to online delivery.  Content that is hook-heavy, topical, interactive, and collaborative.  
-3. Delivery that maximizes engagement by using best practice instructional tactics, interactivity, and *classroom management.*
-4. Community.  Students must feel invested in the overall success of the MEETx experiment, as well as the success and well-being of each other.  This set of cultural expectations should be set over the summer and continuously reinforced throughout the year with a mix of internal (eg. "You are pioneers of a program that could only exapns MEETs impact, but have have a global impact as well.  Learning how to collaborate is *as* important as learning how to code.  That means learning to learn and teach each other) and external motivations (eg. filed trips, pizza partys, MEET swag if they meet collective goals).
+Year-long (ie after-school) programs face enormous challenges, including staffing, logistics, timing, and engagement.  These challenges are layered on top of the already ambitious academic and social components of MEET.  In order to be successful, the following are critical:
+1. **Top-notch teachers**  Teachers who excel not only at relationship and rapport building with students, but who are also skilled in the craft of delivering engaging, topical, interactive lessons.  Given the startup nature of MEETx, they must also be inclined to iterate and experiment rapidly in order to refine the delivery model until its successful.
+2. **Content suited to online delivery**  Content that is hook-heavy, topical, interactive, and collaborative.  
+3. **Delivery that maximizes engagement** by using best practice instructional tactics, interactivity, and *classroom management.*
+4. **Community**  Students must feel invested in the overall success of the MEETx experiment, as well as the success and well-being of each other.  This set of cultural expectations should be set over the summer and continuously reinforced throughout the year with a mix of internal (eg. "You are pioneers of a program could not only expand MEET's impact, but have have a global impact as well.  Learning how to collaborate is *as* important as learning how to code.  That means learning to learn and teach each other) and external motivations (eg. filed trips, pizza partys, MEET swag if they meet collective goals).
 
 This document will go into more detail on each of these levers.
 
@@ -91,7 +91,7 @@ Both in terms of content and delivery style.
         3.  Think-pair-share
         4.  Turn-to-partner
         5.  Cold-calling
-        6.  Whiteboard display (count of 3)
+        6.  Whiteboard display (on the count of 3)
         7.  Peer Instruction
         8.  Fist-to-5
         9.  Timed Pair Share
@@ -102,18 +102,18 @@ Both in terms of content and delivery style.
         for a given amount of time, taking turns (A talks, B listens, then B talks, A listens)
         12.  Great resource: https://www.fctl.ucf.edu/teachingandlearningresources/coursedesign/assessment/content/101_tips.pdf
 
-**Avoid** “Does everyone understand?  Cool?  Does that make sense?”
+<span style="color:red">**Avoid**</span> “Does everyone understand?  Cool?  Does that make sense?”
 
 
 #### 4. Collaborative.  
 
-- Most exercises are sturcutred to be completed in pairs or in groups.  
-- "Collaborative learning" is emphasized as a value.  
-- Guidelines are issued are to make everyone 'a student, everyone a learner.'
+-"Learning to collaborate is **as** important as learning how to code (reinforced by guest speakers on filed trips).
+- Most exercises are structured to be completed in pairs or in groups.  
+- "Collaborative learning" is emphasized as a value (eg everyone 'a student, everyone a learner.')
 
 #### 5. Motivating
-- topical, challenging content
-- looking for and acknolwedging progress (publicly and privately)
+- Topical, challenging content
+- Looking for and acknolwedging progress (publicly and privately)
 
 ## V. Content Guidelines
 
@@ -155,7 +155,7 @@ https://github.com/learn-co-curriculum/hs-oo-snapchat/blob/master/README.md
 
 ## VI. Who is a MEETx Teacher?
 
-
+The following are neccesary characterisitics of a successful MEETx teacher.
   - Love the mission, love kids, love teaching
   - Empathetic
   - Demanding
@@ -233,6 +233,10 @@ After every class:
 ## VII. Feedback Systems
 
 Teaching is hard.  Really hard.  Especially after-school . Especially on-line.   So we have to be constantly improving our content and our delivery style.  
+
+After each class:  Student to teacher feedback.  Teacher self-reflection.
+After each unit: Student self-reflection/mid-course survey.
+After the year: Post-course feedback.  Teacher Seld reflection.
 
 ## VIII. Notes
 
