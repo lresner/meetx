@@ -63,7 +63,7 @@ This document will go into more detail on each of these levers.
 
 ## IV. Delivery Guidelines
 
-MEETx course delivery has a very high degree of difficulty.  After school, online, and K-12 are all notoriously difficult contexts to deliver effecrtive courses.  MEETx will have to overcome the challenges presented by each of these, while maintaining the "MEET" factor — a rare and special blend of community, empahty, open-mindedness, and dignity.  
+Successful MEETx course delivery will have a very high degree of difficulty.  After-school, Online, and K-12 are all notoriously difficult contexts to deliver meaningful educational experiences.  MEETx will have to overcome the challenges presented by each of these contexts, while also delivering the "MEET" factor — a rare and special blend of community, empathy, open-mindedness, and dignity.  
 
 In order to achieve the desired outcomes, MEETx classrooms must be designed and exectued in ways that are:
 
@@ -84,19 +84,17 @@ Both in terms of content and delivery style.
    - 5-min rule: Teachers never speak for more than 5 minutes at a time.  "Popcorning"
    - Every 5 minute block should bookend with an 'interactive practice' or other *CFU*
    - Use CFUs REGULARLY
+   - **ALWAYS use names + Personal details**
+	   - To reinforce positive behavior in front of the class (eg. 'Did everyone hear Laura's insight?  Laura can you repeat?  or Steve can you summarize what Laura said and possibly add?'
+	    - To gently state need from a student in front of class 'eg. Tommy we need you to wrap up and give your attention to Lisa.'
+	    - In written curriculum examples (eg. 'Jerry.dance = "true"')
+	    - In impromptu examples/metaphors (eg. 'Ok let's try another example of real-world functions.  We all know Jerry is an amazing dancer.  Jerry — can you break down the steps of the 'duggy?')
+	    - To cold call
+	      - use regular cold-calling to see if people are digesting important concepts and to encourage attentiveness.  "So Jenny,         if I wanted to rename a file from the command line, what would I have to type?"
+	      - Don't use as a 'gotcha'
+	      - Identify disengaged (probably lost) students, and cold-call and coach them through the problem.
 
-
-#### 3. ALWAYS use names + Personal details 
-   - To reinforce positive behavior in front of the class (eg. 'Did everyone hear Laura's insight?  Laura can you repeat?  or Steve can you summarize what Laura said and possibly add?'
-    - To gently state need from a student in front of class 'eg. Tommy we need you to wrap up and give your attention to Lisa.'
-    - In written curriculum examples (eg. 'Jerry.dance = "true"')
-    - In impromptu examples/metaphors (eg. 'Ok let's try another example of real-world functions.  We all know Jerry is an amazing dancer.  Jerry — can you break down the steps of the 'duggy?')
-    - To cold call
-      - use regular cold-calling to see if people are digesting important concepts and to encourage attentiveness.  "So Jenny,         if I wanted to rename a file from the command line, what would I have to type?"
-      - Don't use as a 'gotcha'
-      - Identify disengaged (probably lost) students, and cold-call and coach them through the problem.
-
-      #### CFUs
+      ##### CFUs
       Checks for understanding are a key tactic for 
         1. Introducing interacitivty into a lesson
         2. Giving teacher as much 'early signaling' as possible to course correct — either academically or engagement-wise
