@@ -1,6 +1,6 @@
 ![Beyonce](beyMeetx.png)
 
-![Drizzy](Screen Shot 2018-08-14 at 8.36.19 AM.png)
+![Drizzy](drizzyMeet.png)
 
 # Meeting 1: HTML 
 
