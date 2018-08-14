@@ -106,7 +106,7 @@ Both in terms of content and delivery style.
         for a given amount of time, taking turns (A talks, B listens, then B talks, A listens)
         12.  Great resource: https://www.fctl.ucf.edu/teachingandlearningresources/coursedesign/assessment/content/101_tips.pdf
 
-<span style="color:red">**Avoid**</span> “Does everyone understand?  Cool?  Does that make sense?”
+<span style="color:red" Avoid></span> “Does everyone understand?  Cool?  Does that make sense?”
 
 
 #### 4. Collaborative.  
