@@ -231,7 +231,7 @@ Before every class:
 During every class: 
 After every class:
 
-(students will | teachers will)
+[students will | teachers will](https://github.com/lresner/meetx/blob/master/html_lesson_sample.md)
 
 <table>
   <tr>
