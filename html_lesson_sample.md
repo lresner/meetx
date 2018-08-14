@@ -173,7 +173,5 @@ Bonus Familiar with HTML and CSS? See if you can change the background color, fo
 + The way a website looks is vital to the user having a good experience of it. If you navigate to a website that looks like it was built in 1992, you're much less likely to take it seriously. The first step in making sure your website will look good is making sure the content is appropriately structured with the proper HTML tags. The next step is giving it visual flair and style using CSS.
 
 ### Hints and Hurdles
-+ Reviewing the Raccoon/Puma todo in depth is a good way to keep object orientation fresh.
 + Emphasize styling and indentation best practices with HTML
-+ Remind students about P.E.P. - encourage them to use Google to find solutions to their problems first.
 + Set the expectation that HTML/CSS is a lot of playing and messing around and figuring things out by trial and error.
