@@ -124,13 +124,13 @@ Both in terms of content and delivery style.
 
 
 
-#### 4. Collaborative.  
+#### 3. Collaborative.  
 
 -"Learning to collaborate is **as** important as learning how to code (reinforced by guest speakers on filed trips).
 - Most exercises are structured to be completed in pairs or in groups.  
 - "Collaborative learning" is emphasized as a value (eg everyone 'a student, everyone a learner.')
 
-#### 5. Motivating
+#### 4. Motivating
 - Topical, challenging content
 - Looking for and acknolwedging progress (publicly and privately)
 
